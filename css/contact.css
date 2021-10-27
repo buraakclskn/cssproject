@@ -1,0 +1,33 @@
+#nav h1
+{
+    text-align: center;
+    color: red;
+}
+#menu ul {
+    list-style-type: none;
+    text-align: center;
+    
+}
+#menu ul li 
+{
+    display:inline-block;
+    *display:inline; /*IE7*/
+    *zoom:1; /*IE7*/
+   }
+
+#menu ul li a{
+
+    padding:12px 16px;
+}
+#art{
+    text-align: center;
+}
+#art h2{
+    color: aqua;
+}
+
+#sec {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
